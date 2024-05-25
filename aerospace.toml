@@ -193,5 +193,5 @@ alt-shift-l = ['join-with right', 'mode main']
 esc = 'mode main'
 
 [workspace-to-monitor-force-assignment]
-2 = [1, 'main']        # You can specify multiple patterns. The first matching pattern will be used
-3 = [1, 'main']        # You can specify multiple patterns. The first matching pattern will be used
+2 = ['secondary', 'main']        # You can specify multiple patterns. The first matching pattern will be used
+3 = ['secondary', 'main']        # You can specify multiple patterns. The first matching pattern will be used
