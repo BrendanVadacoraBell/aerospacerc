@@ -4,6 +4,9 @@ Linux users have the amazing i3 window management/tiling tool for properly sizin
 
 ## Changelog
 
+### 2025-03-11
+Remove deprecated option causing failed config load.
+
 ### 2024-05-25
 Updated workspace-to-monitor mapping to avoid index based mapping that is only horizontal in favour of named mappings to account for the new vertical monitor setup.
 
